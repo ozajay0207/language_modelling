@@ -66,8 +66,7 @@ print(dict1)
 
 prob_final=0.0
 for i in dict1.values():
-	prob_final = prob_final + (1/i)
+	prob_final = prob_final * (1/i)
 
-print(prob_final+45)
-print((prob_final+45)**(1/N))
-	
+PP=(prob_final+45)**(1/N)
+print(PP)	

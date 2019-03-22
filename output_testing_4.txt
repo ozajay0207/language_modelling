@@ -1,0 +1,6 @@
+Trigram Count:1647786
+Bigram Count:89920
+Unigram Count:0
+UNK Count:28119
+Perplexity:9.662488988100511
+Likelihood:0.0
